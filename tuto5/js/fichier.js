@@ -7,5 +7,6 @@ console.log(autreTablo[1])
 console.log(autreTablo.length)
 
 var myTablo = [["a",123],["b",567]]
+console.log(myTablo)
 myTablo.shift();
 console.log(myTablo)
