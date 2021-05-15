@@ -1,0 +1,11 @@
+button {
+    background-color: red;
+}
+
+.item {
+    border: orange solid;
+}
+
+#special {
+    border: green solid;
+}
